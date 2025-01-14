@@ -1,0 +1,15 @@
+Last Week
+
+Component ✅
+Database Migrations ✅
+CRUD ✅
+Implementasi Controller ✅
+Implementasi Model ✅
+
+LastWekk.addKnowledge([
+  'Component', 
+  'Database Migrations', 
+  'CRUD', 
+  'Implementasi Controller', 
+  'Implementasi Model'
+])
